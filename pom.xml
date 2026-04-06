@@ -21,7 +21,7 @@
 		<developer/>
 	</developers>
 	<scm>
-		<connection>scm:git:git://github.com/etchousehold/learndocker.git</connection>
+		<connection>scm:git:https//github.com/etchousehold/learndocker.git</connection>
 		<developerConnection>scm:git:ssh://github.com:etchousehold/learndocker.git</developerConnection>
 		<url>https://github.com/etchousehold/learndocker/tree/main</url>
 	</scm>

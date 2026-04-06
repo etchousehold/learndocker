@@ -8,6 +8,7 @@ public class LearndockerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LearndockerApplication.class, args);
+		System.out.println("test for Git");
 	}
 
 }
